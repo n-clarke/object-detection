@@ -1,4 +1,4 @@
-# Havard's CS50 Final Project: Argus - Computer Vision (Object Detection)
+# Harvard's CS50 Final Project: Argus - Computer Vision (Object Detection)
 
 ## Date
 
