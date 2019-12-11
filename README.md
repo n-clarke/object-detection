@@ -6,7 +6,7 @@
 
 ## Author
 
-Nathan Clarke
+n-clarke
 
 ## Description
 
