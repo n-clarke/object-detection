@@ -50,6 +50,12 @@ Download the project to your machine
 ```
 /workspace/project/object-detection
 ```
+Delete the followling files from the project source code
+```
+object-detection/data/object_detection/README.md
+object-detection/data/object_detection_processed/README.md
+object-detection/data/object_detection_video/README.md
+```
 
 ## To Run
 
